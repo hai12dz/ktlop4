@@ -1,0 +1,10 @@
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\bin\Debug\dektracntt4.exe.config
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\bin\Debug\dektracntt4.exe
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\bin\Debug\dektracntt4.pdb
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\obj\Debug\dektracntt4.csproj.AssemblyReference.cache
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\obj\Debug\dektracntt4.Form1.resources
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\obj\Debug\dektracntt4.Properties.Resources.resources
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\obj\Debug\dektracntt4.csproj.GenerateResource.cache
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\obj\Debug\dektracntt4.csproj.CoreCompileInputs.cache
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\obj\Debug\dektracntt4.exe
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\obj\Debug\dektracntt4.pdb
